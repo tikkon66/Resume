@@ -4,7 +4,6 @@ body {
     font-family: 'Fira Sans';
     color: #333;
     font-size: 20px;
-    padding-bottom: 10px;
 }
 
 a {
@@ -165,7 +164,7 @@ ul {
         font-size: 18px;
     }
     section {
-        margin-top: 30px;
+        margin-top: 45px;
     }
     .wrapper {
         padding: 0 20px;
@@ -203,14 +202,14 @@ ul {
         margin-left: -15%;
     }
     .title {
-        font-size: 26px;
+        font-size: 22px;
     }
     .base-info__hard-skills {
         margin-top: 45px;
     }
     .base-info__list {
         gap: 8px;
-        margin-top: 18px;
+        margin-top: 15px;
         margin-left: 11px;
     }
     .base-info__line {
@@ -226,9 +225,9 @@ ul {
     }
     .front-end__desc {
         text-indent: 5px;
-        line-height: 19px;
-        margin-bottom: 11px;
-        margin-top: 16px;
+        line-height: 25px;
+        margin-bottom: 18px;
+        margin-top: 23px;
     }
     
 }
