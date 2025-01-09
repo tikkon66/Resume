@@ -173,6 +173,7 @@ ul {
     }
     .left-side {
         padding: 40px 5px;
+        padding-right: 20px;
     }
     .avatar__rectangle-yellow {
         bottom: -22px;
